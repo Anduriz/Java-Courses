@@ -17,7 +17,6 @@ public class NamingJava {
         int MAX_WIDTH = 9999;
         int MIN_WIDTH = 1;
 
-
         //Lower Camel Case
         String fullName = "Andy Guillermo Arellano Anleu";
         int sizeInCentimeters = 26;
