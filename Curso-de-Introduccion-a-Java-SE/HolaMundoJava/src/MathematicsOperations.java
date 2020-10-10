@@ -30,7 +30,5 @@ public class MathematicsOperations {
         //Volumen de una esfera
         //(4/3) * PI * r3
         System.out.println((4/3) * Math.PI * Math.pow(y,3));
-
-        
     }
 }
